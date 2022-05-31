@@ -1,0 +1,10 @@
+﻿  Source1.cpp
+C:\Users\L1mpl\source\repos\2_1\2_1\Source1.cpp(11,10): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\Users\L1mpl\source\repos\2_1\2_1\Source1.cpp(11,10): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+C:\Users\L1mpl\source\repos\2_1\2_1\Source1.cpp(11,10): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+C:\Users\L1mpl\source\repos\2_1\2_1\Source1.cpp(11,10): warning C4566: character represented by universal-character-name '\u043F' cannot be represented in the current code page (1252)
+C:\Users\L1mpl\source\repos\2_1\2_1\Source1.cpp(11,10): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+C:\Users\L1mpl\source\repos\2_1\2_1\Source1.cpp(11,10): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+C:\Users\L1mpl\source\repos\2_1\2_1\Source1.cpp(32,18): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+C:\Users\L1mpl\source\repos\2_1\2_1\Source1.cpp(32,18): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+  2_1.vcxproj -> C:\Users\L1mpl\source\repos\2_1\Debug\2_1.exe
